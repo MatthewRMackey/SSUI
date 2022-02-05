@@ -1,2 +1,2 @@
 # Spreadsheet
-Simple Spreadsheet using Tkinter
+Simple Spreadsheet User Interface
