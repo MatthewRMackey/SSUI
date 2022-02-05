@@ -1,2 +1,2 @@
-# Spreadsheet
+# SSUI
 Simple Spreadsheet User Interface
